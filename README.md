@@ -18,6 +18,26 @@
   
 ### OUTPUT 
 
+#### Login 
+
+https://user-images.githubusercontent.com/93777426/207576237-47aa3d34-7bda-4381-a293-c4405bf8ffd0.mp4
+
+
+
+
+#### Infinite scrolling with loading feedback
+
+https://user-images.githubusercontent.com/93777426/207576584-b6abb966-f6f3-41c4-8f2e-eb8956fa0378.mp4
+
+
+
+
+#### LogOut 
+
+https://user-images.githubusercontent.com/93777426/207576726-fcc1bf77-2ca4-42e7-86a3-4e0a206d4871.mp4
+
+
+
 
 
 
